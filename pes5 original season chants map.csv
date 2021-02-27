@@ -1,0 +1,222 @@
+Team ID,BIN ID,AFS FILE,Team Name
+0,82,0_sound.afs,Austria
+1,82,0_sound.afs,Belgium
+2,207,0_sound.afs,Bulgaria
+3,202,0_sound.afs,Croatia
+4,192,0_sound.afs,Czech
+5,197,0_sound.afs,Denmark
+6,92,0_sound.afs,England
+7,82,0_sound.afs,Finland
+8,97,0_sound.afs,France
+9,107,0_sound.afs,Germany
+10,112,0_sound.afs,Greece
+11,112,0_sound.afs,Hungary
+12,82,0_sound.afs,Ireland
+13,187,0_sound.afs,Italy
+14,112,0_sound.afs,Latvia
+15,102,0_sound.afs,Netherlands
+16,82,0_sound.afs,Northern Ireland
+17,82,0_sound.afs,Norway
+18,112,0_sound.afs,Poland
+19,177,0_sound.afs,Portugal
+20,112,0_sound.afs,Romania
+21,112,0_sound.afs,Russia
+22,82,0_sound.afs,Scotland
+23,112,0_sound.afs,Serbia and Montenegro
+24,112,0_sound.afs,Slovakia
+25,112,0_sound.afs,Slovenia
+26,182,0_sound.afs,Spain
+27,82,0_sound.afs,Sweden
+28,82,0_sound.afs,Switzerland
+29,212,0_sound.afs,Turkey
+30,112,0_sound.afs,Ukraine
+31,82,0_sound.afs,Wales
+32,117,0_sound.afs,Cameroon
+33,117,0_sound.afs,Cote d'Ivoire
+34,117,0_sound.afs,Angola
+35,117,0_sound.afs,Togo
+36,117,0_sound.afs,Senegal
+37,117,0_sound.afs,Ghana
+38,117,0_sound.afs,Tunisia
+39,122,0_sound.afs,Costa Rica
+40,122,0_sound.afs,Mexico
+41,122,0_sound.afs,United States
+42,137,0_sound.afs,Argentina
+43,132,0_sound.afs,Brazil
+44,127,0_sound.afs,Chile
+45,127,0_sound.afs,Colombia
+46,127,0_sound.afs,Ecuador
+47,127,0_sound.afs,Paraguay
+48,127,0_sound.afs,Peru
+49,127,0_sound.afs,Uruguay
+50,127,0_sound.afs,Trinidad and Tobago
+51,227,0_sound.afs,China
+52,232,0_sound.afs,Iran
+53,217,0_sound.afs,Japan
+54,237,0_sound.afs,Saudi Arabia
+55,222,0_sound.afs,South Korea
+56,82,0_sound.afs,Australia
+57,137,0_sound.afs,Classic Argentina
+58,132,0_sound.afs,Classic Brazil
+59,92,0_sound.afs,Classic England
+60,97,0_sound.afs,Classic France
+61,107,0_sound.afs,Classic Germany
+62,337,0_sound.afs,Classic Italy
+63,102,0_sound.afs,Classic Netherlands
+64,247,0_sound.afs,Arsenal
+65,142,0_sound.afs,West Midlands Village
+66,142,0_sound.afs,West Midlands City
+67,142,0_sound.afs,Lancashire
+68,142,0_sound.afs,Middlebrook
+69,142,0_sound.afs,South East London Reds
+70,252,0_sound.afs,Chelsea
+71,142,0_sound.afs,Merseyside Blue
+72,142,0_sound.afs,West London White
+73,142,0_sound.afs,Merseyside Red
+74,142,0_sound.afs,Man Blue
+75,242,0_sound.afs,Man Red
+76,142,0_sound.afs,Teesside
+77,142,0_sound.afs,Tyneside
+78,142,0_sound.afs,Pompy
+79,142,0_sound.afs,Wearside
+80,142,0_sound.afs,North East London
+81,142,0_sound.afs,West Midlands Stripes
+82,142,0_sound.afs,East London
+83,142,0_sound.afs,Lancashire Athletic
+84,82,0_sound.afs,Corse Sud
+85,267,0_sound.afs,Azur
+86,82,0_sound.afs,Bourgogne
+87,82,0_sound.afs,Aquitaine
+88,82,0_sound.afs,Sarthe
+89,82,0_sound.afs,Pas de Calais
+90,302,0_sound.afs,Rhone
+91,82,0_sound.afs,Moselle
+92,82,0_sound.afs,Meurthe-et-Moselle
+93,82,0_sound.afs,Loire Océan
+94,82,0_sound.afs,Alpes Maritimes
+95,82,0_sound.afs,Bouches du Rhone
+96,82,0_sound.afs,Ile De France
+97,82,0_sound.afs,Nord
+98,82,0_sound.afs,Bretagne
+99,82,0_sound.afs,Somesterrine
+100,82,0_sound.afs,Franche-Comté
+101,82,0_sound.afs,Alsace
+102,82,0_sound.afs,Garonne
+103,82,0_sound.afs,Aube
+104,152,0_sound.afs,Domstadt
+105,152,0_sound.afs,Alm
+106,152,0_sound.afs,Rhein
+107,152,0_sound.afs,Isar
+108,152,0_sound.afs,Westfalen
+109,152,0_sound.afs,Fohlen
+110,152,0_sound.afs,Stahlstadt
+111,152,0_sound.afs,Rhein-Main
+112,152,0_sound.afs,Hanseaten
+113,152,0_sound.afs,Niedersachsen
+114,152,0_sound.afs,Hauptstadt
+115,152,0_sound.afs,Pfalz
+116,152,0_sound.afs,Karneval
+117,152,0_sound.afs,Franken
+118,152,0_sound.afs,Ruhr
+119,322,0_sound.afs,Neckar
+120,152,0_sound.afs,Autostadt
+121,152,0_sound.afs,Weser
+122,282,0_sound.afs,A.C. Milan
+123,297,0_sound.afs,A.S. Roma
+124,157,0_sound.afs,Ascoli
+125,157,0_sound.afs,Teste Di Moro
+126,157,0_sound.afs,Chievo Verona
+127,157,0_sound.afs,Empoli
+128,157,0_sound.afs,Fiorentina
+129,272,0_sound.afs,Inter
+130,277,0_sound.afs,Juventus
+131,287,0_sound.afs,Lazio
+132,157,0_sound.afs,Lecce
+133,157,0_sound.afs,Livorno
+134,157,0_sound.afs,Messina
+135,157,0_sound.afs,Palermo
+136,292,0_sound.afs,Parma
+137,157,0_sound.afs,Reggina
+138,157,0_sound.afs,Sampdoria
+139,157,0_sound.afs,Siena
+140,157,0_sound.afs,Treviso
+141,157,0_sound.afs,Udinese
+142,82,0_sound.afs,ADO Den Haag
+143,82,0_sound.afs,Ajax 
+144,82,0_sound.afs,AZ
+145,82,0_sound.afs,FC Groningen
+146,82,0_sound.afs,FC Twente
+147,82,0_sound.afs,FC Utrecht
+148,82,0_sound.afs,Feyenoord
+149,82,0_sound.afs,Heracles Almelo
+150,82,0_sound.afs,NAC Breda
+151,82,0_sound.afs,NEC Nijmegen
+152,82,0_sound.afs,PSV Eindhoven
+153,82,0_sound.afs,RBC Roosendaal
+154,82,0_sound.afs,RKC Waalwijk
+155,82,0_sound.afs,Roda JC
+156,82,0_sound.afs,SC Heerenveen
+157,82,0_sound.afs,Sparta Rotterdam
+158,82,0_sound.afs,Vitesse
+159,82,0_sound.afs,Willem II
+160,147,0_sound.afs,Alaves
+161,147,0_sound.afs,At. Osasuna
+162,147,0_sound.afs,Athletic Club
+163,147,0_sound.afs,C. Atlético Madrid
+164,147,0_sound.afs,Cadiz
+165,147,0_sound.afs,Celta
+166,257,0_sound.afs,F.C. Barcelona
+167,147,0_sound.afs,Getafe C.F.
+168,147,0_sound.afs,Málaga C.F.
+169,147,0_sound.afs,R. Betis
+170,262,0_sound.afs,R. Madrid
+171,147,0_sound.afs,R. Racing C.
+172,307,0_sound.afs,R. Sociedad
+173,147,0_sound.afs,R. Zaragoza
+174,147,0_sound.afs,R.C. Deportivo
+175,147,0_sound.afs,R.C.D. Espanyol
+176,147,0_sound.afs,R.C.D. Mallorca
+177,147,0_sound.afs,Sevilla F.C.
+178,147,0_sound.afs,Valencia C.F.
+179,147,0_sound.afs,Villarreal C.F.
+180,82,0_sound.afs,Lisbonera
+181,112,0_sound.afs,FC Bosphorus
+182,82,0_sound.afs,Celtic
+183,82,0_sound.afs,Djurgardens IF
+184,112,0_sound.afs,Dynamo Kiev
+185,82,0_sound.afs,FC Belgium
+186,82,0_sound.afs,FC Kopenhagen
+187,82,0_sound.afs,FC Porto
+188,212,0_sound.afs,Constanti
+189,112,0_sound.afs,Galatasaray
+190,112,0_sound.afs,Russia Rail FC
+191,112,0_sound.afs,Peloponnisos
+192,112,0_sound.afs,Athenakos FC
+193,82,0_sound.afs,Rangers
+194,82,0_sound.afs,Rosenborg BK
+195,82,0_sound.afs,Bruxelles
+196,112,0_sound.afs,Sheffcor Domake
+197,112,0_sound.afs,AC Czech
+198,82,0_sound.afs,Esportiva
+199,127,0_sound.afs,Caopolo
+200,312,0_sound.afs,PES United
+201,317,0_sound.afs,WE United
+202,332,0_sound.afs,World All-Stars
+203,327,0_sound.afs,European All-Stars
+204,347,0_sound.afs,North American All-Stars
+205,352,0_sound.afs,South American All-Stars
+206,357,0_sound.afs,Asia Oceanian All-Stars
+207,362,0_sound.afs,African All-Stars
+208,172,0_sound.afs,Master League Youth Squad
+209,172,0_sound.afs,Master League Veterans
+210,172,0_sound.afs,Galacticos
+211,172,0_sound.afs,The Jaguars
+212,172,0_sound.afs,The Oxen
+213,172,0_sound.afs,The Goliaths
+214,172,0_sound.afs,Little Rascals
+215,172,0_sound.afs,The Lefties
+216,172,0_sound.afs,Gli Pelati
+217,172,0_sound.afs,Goalies
+218,367,0_sound.afs,ML United
+219,87,0_sound.afs,Canuch
+220,87,0_sound.afs,Rawore
